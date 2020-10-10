@@ -1,0 +1,7 @@
+State_machine_extracredit.c:20:6:delay	8	static
+State_machine_extracredit.c:46:6:gpio_button	0	static
+State_machine_extracredit.c:254:6:transition	32	static
+State_machine_extracredit.c:60:6:stop_state	24	static
+State_machine_extracredit.c:116:6:go_state	24	static
+State_machine_extracredit.c:167:6:warning_state	24	static
+State_machine_extracredit.c:210:6:crosswalk_state	32	static

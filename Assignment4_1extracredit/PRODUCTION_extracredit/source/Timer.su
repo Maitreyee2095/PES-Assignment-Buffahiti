@@ -1,0 +1,5 @@
+Timer.c:24:6:Init_SysTick	0	static
+Timer.c:35:12:now	0	static
+Timer.c:43:6:reset_timer	8	static
+Timer.c:52:12:get_timer	0	static
+Timer.c:58:6:SysTick_Handler	0	static
