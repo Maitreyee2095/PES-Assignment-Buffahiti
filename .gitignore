@@ -1,0 +1,7 @@
+#the .gitignore file for this repository
+Assignment4_1/.settings/
+
+
+#the folders to be untracked
+Assignment4_1/Debug
+Assignment4_1/Release

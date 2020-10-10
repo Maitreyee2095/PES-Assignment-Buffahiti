@@ -1,0 +1,6 @@
+State_machine.c:20:6:delay	24	static
+State_machine.c:36:6:stop_state	16	static
+State_machine.c:97:6:go_state	16	static
+State_machine.c:154:6:warning_state	16	static
+State_machine.c:206:6:crosswalk_state	16	static
+State_machine.c:244:6:transition	24	static
