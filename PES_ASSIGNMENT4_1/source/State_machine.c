@@ -93,7 +93,7 @@ void stop_state()
 		start_b=STOP.B;
 		end_b=CROSSWALK.B;
 
-		LOG("Button pressed \r \n");
+		LOG("\t Button pressed \r \n");
 		log_transition(STOP_state,CROSSWALK_state,(now()*10));
 		//CALL TRANSITION FUNCTION
 		transition();
@@ -145,7 +145,7 @@ void go_state()
 		start_b=GO.B;
 		end_b=CROSSWALK.B;
 
-		LOG("Button pressed \r \n");
+		LOG("\t Button pressed \r \n");
 		log_transition(GO_state,CROSSWALK_state,(now()*10));
 		//START TRANSITION
 		transition();
@@ -197,7 +197,7 @@ void warning_state()
 		start_b=WARNING.B;
 		end_b=CROSSWALK.B;
 
-		LOG("Button pressed \r \n");
+		LOG("\t Button pressed \r \n");
 		log_transition(WARNING_state,CROSSWALK_state,(now()*10));
 		//START TRANSITION
 		transition();
