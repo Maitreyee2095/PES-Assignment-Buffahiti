@@ -23,3 +23,5 @@ Assignment_1extracredit
 4) In the assignment earlier, i was polling the touch sensor after every 100ms, but in extra credit assignment I am using interrupts and priortising them
 5) My external switch has  interrupt priority 1 which is greater than timer interrupt and so as soon as button is pressed crroswalk is initiated
 6) Created a new project with rest all same settings for easy testing.
+
+The Final Commit contains all the changes suggested by JAKE MICHEAL.
